@@ -1,0 +1,14 @@
+{
+  "name": "sleep-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Drop-in sleep tracking module for personal dashboards (iPhone Health → Vercel → Supabase).",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
